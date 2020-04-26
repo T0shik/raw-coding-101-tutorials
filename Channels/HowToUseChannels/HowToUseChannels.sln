@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToUseChannels", "HowToUseChannels\HowToUseChannels.csproj", "{7AF8688C-D651-40D2-9914-061620DEFABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF8688C-D651-40D2-9914-061620DEFABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF8688C-D651-40D2-9914-061620DEFABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF8688C-D651-40D2-9914-061620DEFABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF8688C-D651-40D2-9914-061620DEFABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BBB6AC5-E002-45A8-9424-586F8F6A5E0C}
+	EndGlobalSection
+EndGlobal
