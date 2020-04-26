@@ -9,3 +9,4 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 - [Explaining Async Await Task](https://youtu.be/il9gl8MH17s)
 - [How to Use Async AWait Task](https://youtu.be/3GhKdDCvtKE)
 - [Semaphore](https://youtu.be/GKjM4AX8NME)
+- [Channels](https://youtu.be/E0Ld7ZgE4oY)
