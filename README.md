@@ -11,3 +11,4 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 - [Semaphore](https://youtu.be/GKjM4AX8NME)
 - [Channels](https://youtu.be/E0Ld7ZgE4oY)
 - [MVC](https://youtu.be/u4O-b1BJg98)
+- [IEnumerable](https://youtu.be/at6weLnskpU)
