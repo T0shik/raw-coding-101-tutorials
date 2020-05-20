@@ -1,0 +1,15 @@
+﻿@model IEnumerable<string>
+
+
+    <form action="/Home/SignIn" method="post">
+
+        @foreach(var claim in Model)
+        {
+            <div>
+                <label>@claim</label>
+                <input type="checkbox" name="claims" value="@claim" />
+            </div>
+        }
+
+        <button type="submit">Sign In</button>
+    </form>
